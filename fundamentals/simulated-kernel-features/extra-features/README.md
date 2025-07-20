@@ -51,16 +51,13 @@ When downloading addons, consider the following points:
 
 In case the `getaddons` command didn't work properly, you'll have to resort to installing the kernel addons manually. We have packed the addons pack for each release for easy installation. To install the addons manually, follow these steps:
 
-1.  Download an `-addons.zip` file that corresponds to your kernel version from [this page](https://github.com/Aptivi/NitrocidKS/releases) and open your favorite archive manager.\
-
+1.  Download an `-addons.zip` file that corresponds to your kernel version from [this page](https://github.com/Aptivi/NitrocidKS/releases) and open your favorite archive manager.\\
 
     <figure><img src="../../../.gitbook/assets/161-addonszip.png" alt=""><figcaption></figcaption></figure>
-2.  Make a new folder under the Nitrocid KS binary folder called `Addons`.\
-
+2.  Make a new folder under the Nitrocid KS binary folder called `Addons`.\\
 
     <figure><img src="../../../.gitbook/assets/162-addonszip.png" alt=""><figcaption></figcaption></figure>
-3.  Extract all the folders to the `Addons` folder.\
-
+3.  Extract all the folders to the `Addons` folder.\\
 
     <figure><img src="../../../.gitbook/assets/163-addonszip.png" alt=""><figcaption></figcaption></figure>
 4. Run Nitrocid KS and verify that the addon commands work.
@@ -71,6 +68,6 @@ Addons are program extension libraries that extend the functionality of a progra
 
 In addition, Nitrocid KS provides an addon system that loads all the kernel addons that are built with the Nitrocid project. Mods are the second kind of kernel addons that have lesser privileges, but can be made easily by you. The documentation provides you instructions on how to make your own mod (not zero-code!) using the page below:
 
-{% content-ref url="../../../advanced-and-power-users/kernel-modifications/build-your.../your-mod.md" %}
-[your-mod.md](../../../advanced-and-power-users/kernel-modifications/build-your.../your-mod.md)
+{% content-ref url="../../../advanced-and-power-users/kernel-modifications/your-mod.md" %}
+[your-mod.md](../../../advanced-and-power-users/kernel-modifications/your-mod.md)
 {% endcontent-ref %}
